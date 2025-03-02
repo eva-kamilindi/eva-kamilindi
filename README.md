@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Eva or Agnes
 - 👀 I’m interested in coding, making my country better and anime
-- 🌱 I’m currently learning react js
+- 🌱 I’m currently learning react js and python
 - 💞️ I’m looking to collaborate on anything that can enrich my knowledge
 - 📫 How to reach me: evandbeyond@gmail.com 
 - 😄 Pronouns: she/her
