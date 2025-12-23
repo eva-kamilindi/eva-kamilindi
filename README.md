@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Eva or Agnes or Bwiza
+- 👋 Hi, I’m @Agnes
 - 👀 I’m interested in coding, making my country better and anime
 - 🌱 I’m currently learning react js and python
 - 💞️ I’m looking to collaborate on anything that can enrich my knowledge
